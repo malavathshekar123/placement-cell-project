@@ -15,13 +15,13 @@ GETTING STARTED
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/narendra03K/Placement-Portal).
+3. Download project from github(**).
 
 OR follow gitbash commands
 
 i> cd C:\\xampp\htdocs\
 
-ii> git clone https://github.com/narendra03K/Placement-Portal
+ii> git clone **
 
 4. Extract files in C:\xampp\htdocs.
 
@@ -29,13 +29,13 @@ ii> git clone https://github.com/narendra03K/Placement-Portal
 
 6. Click on new at side navbar.
 
-7. Give a database name as (placement_portal) hit on create button.
+7. Give a database name as (placement-cell-project) hit on create button.
 
 8. After creating database name click on import.
 
-9. Browse the file in directory [placement-portal/database/db1.sql].
+9. Browse the file in directory [placement-cell-project/database/db1.sql].
 
-10. Open any browser and type http://localhost/placement-portal.
+10. Open any browser and type http://localhost/placement-cell-project.
 
 
 
